@@ -27,7 +27,7 @@ A full-stack web application that allows students to submit assignments and rece
 - Instructor -   https://assignment-frontend-amber.vercel.app/instructor
 
 - Backend:
--               https://assignment-backend-h9cx.onrender.com
+- https://assignment-backend-h9cx.onrender.com
 - Submissions - https://assignment-backend-h9cx.onrender.com/submissions
 
 
