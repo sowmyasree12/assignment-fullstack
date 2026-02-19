@@ -23,14 +23,12 @@ A full-stack web application that allows students to submit assignments and rece
 ## 🌐 Deployed URLs
 
 - Frontend:
-Student- https://assignment-frontend-do6a34txl-sowmyasree12s-projects.vercel.app/
-
-Instructor - https://assignment-frontend-do6a34txl-sowmyasree12s-projects.vercel.app/instructor
+- Student    -   https://assignment-frontend-amber.vercel.app/
+- Instructor -   https://assignment-frontend-amber.vercel.app/instructor
 
 - Backend:
-- https://assignment-backend-h9cx.onrender.com
-
-Submissions - https://assignment-backend-h9cx.onrender.com/submissions
+-               https://assignment-backend-h9cx.onrender.com
+- Submissions - https://assignment-backend-h9cx.onrender.com/submissions
 
 
 ---
